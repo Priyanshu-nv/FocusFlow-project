@@ -36,7 +36,7 @@ A modern and responsive habit tracking web app built using React and TailwindCSS
 
 ## 🚀 Live Demo
 
-👉 [Live App](focus-flow-project.vercel.app)
+👉 [Live App](https://focus-flow-project.vercel.app/)
 
 ---
 
